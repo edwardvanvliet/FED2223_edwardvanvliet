@@ -59,7 +59,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
   - Skip links gebruiken om navigatiemenu te skippen bij gebruik van een screenreader.
   - Duidelijk de actieve state weergeven voor een goede accessability
-  - Let op een goed/duidelijk contrast, bij ABN AMRO is het contrast wel goed. Later wil ik wellicht ook een dark mode in de website toevoegen, dan moet je natuurlijk ook goed letten op kleurconstrast, tussen tekst en achtergrond kleur. In de style van Nike zal het dan waarschijnlijk een zwarte achtergrond met witte tekst zijn.
+  - Let op een goed/duidelijk contrast, bij ABN AMRO is het contrast wel goed. Later wil ik wellicht ook een dark mode in de website toevoegen, dan moet je natuurlijk ook goed letten op kleurconstrast, tussen tekst en achtergrond kleur. In de style van ABN AMRO zal het dan waarschijnlijk een donkergroene achtergrond met lichte witte tekst zijn.
 
   #### Screenreader
   Omschrijving:
