@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Beleggen bij ABN AMRO, "Alles over beleggen"-pagina: [https://www.abnamro.nl/nl/prive/beleggen/index1](https://www.abnamro.nl/nl/prive/beleggen/index1.html?adobe_mc_sdid=SDID%3D5F667A4688E7C7E3-2D6DFB4BC5601DFD%7CMCORGID%3D0861467352782C5E0A490D45%40AdobeOrg%7CTS%3D1668698886&adobe_mc_ref=https%3A%2F%2Fwww.abnamro.nl%2Fnl%2Fprive%2Fbeleggen%2Findex1.html)  
-  <img src="readme-images/capture_beleggenpagina_www.abnamro.nl.jpeg" width="375px" alt="ABN AMRO - "Alles over beleggen"-pagina">
+  <img src="readme-images/capture_beleggenpagina_www.abnamro.nl.jpeg" width="375px" alt="ABN AMRO - Alles over beleggen-pagina">
  
 </details>
 
