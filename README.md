@@ -43,7 +43,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Nike's Men's Hoodies & Sweatshirt pagina: [https://www.nike.com/nl/w/heren-hoodies-en-sweatshirts-6riveznik1](https://www.nike.com/nl/w/heren-hoodies-en-sweatshirts-6riveznik1)  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
