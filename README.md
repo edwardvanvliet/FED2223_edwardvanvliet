@@ -66,21 +66,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De active states 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Met elastiekjes
+  Met elastiekjes (thuis geprobeerd):
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Niet van toepassing.
 
 </details>
 
