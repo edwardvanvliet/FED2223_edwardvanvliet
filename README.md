@@ -57,11 +57,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - Skip links
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De screenreader leest na het hoofdmenu de zoekbalk op, maar gaat niet meer verder naar de rest van de website.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Dit zou opgelost kunnen worden door een skip link te plaatsen bovenin, zodat je ook de rest van de website kan doorlopen.
 
 
   #### Muis en Toetsenbord 
@@ -71,7 +72,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Met elastiekjes
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
