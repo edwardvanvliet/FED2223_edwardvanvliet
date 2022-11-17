@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [Nike.com](https://www.nike.com/nl/)
+  [www.abnamro.nl](https://www.abnamro.nl/nl/prive/index.html)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepagina van Nike: [www.nike.com/nl/](https://www.nike.com/nl/)  
-  <img src="readme-images/homepage_small_screen.png" width="375px" alt="Homepagina Nike">
+  Homepagina van ABN AMRO: [www.abnamro.nl/nl/prive/index.html](https://www.abnamro.nl/nl/prive/index.html)  
+  <img src="readme-images/capture_homepagina_www.abnamro.nl.jpeg" width="375px" alt="Homepagina ABN AMRO">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Nike's Men's Hoodies & Sweatshirt pagina: [https://www.nike.com/nl/w/heren-hoodies-en-sweatshirts-6riveznik1](https://www.nike.com/nl/w/heren-hoodies-en-sweatshirts-6riveznik1)  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Nike's Men's Hoodies & Sweatshirt pagina: [https://www.abnamro.nl/nl/prive/beleggen/index1](https://www.abnamro.nl/nl/prive/beleggen/index1.html?adobe_mc_sdid=SDID%3D5F667A4688E7C7E3-2D6DFB4BC5601DFD%7CMCORGID%3D0861467352782C5E0A490D45%40AdobeOrg%7CTS%3D1668698886&adobe_mc_ref=https%3A%2F%2Fwww.abnamro.nl%2Fnl%2Fprive%2Fbeleggen%2Findex1.html)  
+  <img src="readme-images/capture_beleggenpagina_www.abnamro.nl.jpeg" width="375px" alt="ABN AMRO - Alles over beleggen pagina">
  
 </details>
 
@@ -57,24 +57,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  - Skip links
+  - Skip links gebruiken om navigatiemenu te skippen bij gebruik van een screenreader.
+  - Duidelijk de actieve state weergeven voor een goede accessability
+  - Let op een goed/duidelijk contrast, bij ABN AMRO is het contrast wel goed. Later wil ik wellicht ook een dark mode in de website toevoegen, dan moet je natuurlijk ook goed letten op kleurconstrast, tussen tekst en achtergrond kleur. In de style van Nike zal het dan waarschijnlijk een zwarte achtergrond met witte tekst zijn.
 
   #### Screenreader
-  De screenreader leest na het hoofdmenu de zoekbalk op, maar gaat niet meer verder naar de rest van de website.
-
-  Dit zou opgelost kunnen worden door een skip link te plaatsen bovenin, zodat je ook de rest van de website kan doorlopen.
+  Omschrijving:
+  De screenreader leest alles wel goed op, hij slaat niks over. Hij sloeg wel een paar zinnen over op één of andere manier.
+  
+  Omschrijving van hoe het opgelost kan worden:
+  Een skip link te plaatsen bovenin zou handig kunnen zijn om de menubalk over te kunnen slaan, zodat je meteen door de rest van de website kan doorlopen.
 
 
   #### Muis en Toetsenbord 
-  De active states 
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Omschrijving: 
+  De actieve state van een bepaalde knoppen zijn minder goed te zien, qua kleur kan het wellicht nog duidelijker. 
+  
+  Omschrijving van hoe het op opgelost kan worden:
+  Wellicht kan de kleur van sommige actieve states veranderd worden naar een andere kleur.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Met elastiekjes (thuis geprobeerd):
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Met elastiekjes (om de wijs- en middelvinger bijv.) was de website goed te gebruiken. (Thuis geprobeerd)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
