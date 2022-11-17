@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   [Nike.com](https://www.nike.com/nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Homepagina van Nike: [Nike.com](https://www.nike.com/nl/)  
+  Homepagina van Nike: [www.nike.com/nl/](https://www.nike.com/nl/)  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
